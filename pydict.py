@@ -1,8 +1,6 @@
 # Required libraries
 from tkinter import *
 from PyDictionary import PyDictionary
-import requests
-from bs4 import BeautifulSoup
 
 # Create Object
 dk = PyDictionary()
